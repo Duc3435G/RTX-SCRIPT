@@ -1,4 +1,4 @@
-getgenv().mode = "Summer" -- Choose from Summer and Autumn
+getgenv().mode = "Autumn" -- Choose from Summer and Autumn
 
 
 
