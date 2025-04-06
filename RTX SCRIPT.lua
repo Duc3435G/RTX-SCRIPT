@@ -1,3 +1,7 @@
+local runService = game:GetService("RunService")
+local StarterGui = game:GetService("StarterGui")
+
+
 getgenv().mode = "Autumn" -- Choose from Summer and Autumn
 
 
