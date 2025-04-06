@@ -59,4 +59,9 @@ s.Enabled = true
 s.Intensity = 0.01
 s.Spread = 0.146
 
-print("RTX Graphics loaded! Created by BrickoIcko")
+print("RTX Graphics loaded! Created by ArthurIOS")
+StarterGui:SetCore("SendNotification", {
+    Title = "RTX Graphics loaded", 
+    Text = "Made by ArthurIOS",
+    Duration = 50
+})
